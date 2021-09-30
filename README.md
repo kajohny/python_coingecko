@@ -38,3 +38,6 @@ Output:
 4. "Cryptocurrency": "Tether", "market cap": 69735010525, "current price": 1.0
 5. "Cryptocurrency": "Binance Coin", "market cap": 54047611085, "current price": 350.6
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
