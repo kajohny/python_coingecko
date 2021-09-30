@@ -37,7 +37,6 @@ Output:
 3. "Cryptocurrency": "Cardano", "market cap": 71390776955, "current price": 2.24
 4. "Cryptocurrency": "Tether", "market cap": 69735010525, "current price": 1.0
 5. "Cryptocurrency": "Binance Coin", "market cap": 54047611085, "current price": 350.6
-```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+(https://choosealicense.com/licenses/mit/)
