@@ -31,6 +31,7 @@ print(cc.json()[n]['market_cap'])
 
 Input:
 5
+
 Output:
 1. "Cryptocurrency": "Bitcoin", "market cap": 793895115868, "current price": 42291
 2. "Cryptocurrency": "Ethereum", "market cap": 340501314917, "current price": 2902.96
